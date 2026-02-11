@@ -195,3 +195,10 @@ article:hover {
 .contact-form button {
   margin-top: 10px;
 }
+
+/* ABOUT PAGE */
+
+.about-us-page {
+  padding: 60px 20px;
+  text-align: center;
+}
