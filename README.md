@@ -23,7 +23,7 @@ Projekt przedstawia stronę portfolio stworzoną w HTML, CSS i JavaScript.
 ## Hosting
 
 GitHub Pages:
-https://USERNAME.github.io/PTW-70004-70592-/
+[https://USERNAME.github.io/PTW-70004-70592-/](https://tymofii006.github.io/PTW-70004-70592-/)
 
 Cloudflare Pages:
 https://ptw-70004-70592.pages.dev
