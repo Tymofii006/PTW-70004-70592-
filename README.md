@@ -1,3 +1,25 @@
+# Portfolio Website
+
+Projekt zaliczeniowy z przedmiotu TW.
+
+## Autorzy
+- Tymofii Teliuk
+- Matsvei Hanchar
+
+Jesteśmy studentami oraz początkującymi programistami.
+Projekt przedstawia stronę portfolio stworzoną w HTML, CSS i JavaScript.
+
+---
+
+## Funkcjonalności
+- Responsywny design
+- Formularz kontaktowy
+- Dynamiczne elementy JavaScript
+- Animacje CSS
+- Sekcja zespołu
+
+---
+
 ## Hosting
 
 GitHub Pages:
