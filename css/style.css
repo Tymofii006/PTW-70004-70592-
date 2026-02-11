@@ -49,3 +49,38 @@ footer {
     flex-direction: column;
   }
 }
+
+/* GRID LAYOUT */
+
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+article {
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+article:hover {
+  transform: translateY(-5px);
+}
+
+@media (max-width: 768px) {
+
+  section {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    padding: 30px;
+  }
+
+  header h1 {
+    font-size: 24px;
+  }
+}
