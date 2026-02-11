@@ -202,3 +202,11 @@ article:hover {
   padding: 60px 20px;
   text-align: center;
 }
+
+@media (max-width: 768px) {
+
+  .contact-container {
+    grid-template-columns: 1fr;
+  }
+
+}
